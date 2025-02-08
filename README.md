@@ -23,3 +23,5 @@ This is a data competition held on Kaggle in 2020. The goal is to train a model 
     +   Plotting results
     +   CNN + Random Forest
     +   XGB
+#### Result of the competition
+![image](https://github.com/JOE881003/Kaggle-apple-tree/blob/main/IMG/apple%20trees%20score.png)
