@@ -25,3 +25,6 @@ This is a data competition held on Kaggle in 2020. The goal is to train a model 
     +   XGB
 ## Result of the competition
 ![image](https://github.com/JOE881003/Kaggle-apple-tree/blob/main/IMG/apple%20trees%20score.png)
+
+
+Competition Website: https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7
