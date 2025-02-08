@@ -10,3 +10,16 @@ This is a data competition held on Kaggle in 2020. The goal is to train a model 
 * [SciKit-Learn](http://scikit-learn.org/stable/)
 * [Matplotlib](http://matplotlib.org/)
 * [Karas](https://www.tensorflow.org/guide/keras)
+
+#### Data Handling
+*   Importing Data with Pandas
+*   Cleaning Data
+*   Exploring Data through Visualizations with Matplotlib
+
+#### Data Analysis
+*    Supervised Machine learning Techniques:
+    +   Densenet121
+    +   DNN
+    +   Plotting results
+    +   CNN + Random Forest
+    +   XGB
